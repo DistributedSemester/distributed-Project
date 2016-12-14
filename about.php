@@ -272,10 +272,7 @@ switch($_GET["action"]) {
       <h3>About C'rage</h3>
     </div>
     <div>
-        <video width="600" height="960" controls>
-      <source src="videos\advert.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-      </video>
+       
     </div>
     <div class="container">
       <div class="tabbable">
@@ -306,7 +303,7 @@ No fear with C’RAGE product.
     <div class="container">
         <div class="row">
           <div class="col-sm-2">
-            <h6>Copyright &copy; 2016 Teejay</h6>
+            <h6>Copyright &copy; 2016 Team Alpha</h6>
           </div>
           <div class="col-sm-4">
             <h6>About Us</h6>
@@ -339,7 +336,7 @@ No fear with C’RAGE product.
             </ul>
           </div>
           <div class="col-sm-2">
-             <h6>Coded with <span class="glyphicon glyphicon-heart"> by TEEJAY</span></h6>
+             <h6>Coded with <span class="glyphicon glyphicon-heart"> by Team Alpha</span></h6>
           </div>
         </div>
     </div>
