@@ -272,7 +272,7 @@ switch($_GET["action"]) {
                                   <h1>Contact Info</h1>
                                   <p>Address: Valley View University, Oyibi-Dodowa, Accra, Ghana.</p>
                                   <p>Telephone: 0248277795 & 0267878280</p>
-                                  <p>Email: <a href="#">alpha@gmail.com</a></p>
+                                  <p>Email: <a href="#">C'rage@gmail.com</a></p>
 
                                   
            </div>
@@ -362,7 +362,7 @@ switch($_GET["action"]) {
     <div class="container">
         <div class="row">
           <div class="col-sm-2">
-            <h6>Copyright &copy; 2016 Team Alpha</h6>
+            <h6>Copyright &copy; 2016 Teejay</h6>
           </div>
           <div class="col-sm-4">
             <h6>About Us</h6>
@@ -395,7 +395,7 @@ No fear with C’RAGE product.
             </ul>
           </div>
           <div class="col-sm-2">
-             <h6>Coded with <span class="glyphicon glyphicon-heart"> by Team Alpha</span></h6>
+             <h6>Coded with <span class="glyphicon glyphicon-heart"> by TEEJAY</span></h6>
           </div>
         </div>
     </div>
