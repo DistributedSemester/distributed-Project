@@ -1,0 +1,123 @@
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+   footer {
+   background: #333;
+   color: #eee;
+   font-size: 11px;
+   padding: 20px;
+}
+   
+
+
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+   body {
+   -webkit-font-smoothing: antialiased;
+   text-rendering: optimizelegibility;
+}
+   ul.unstyled {
+   list-style: none;
+   padding: 0;
+}
+.modal-header, h4, .close {
+      background-color: #5cb85c;
+      color:white !important;
+      text-align: center;
+      font-size: 30px;
+  }
+  .modal-footer {
+      background-color: #f9f9f9;
+  }
+
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+   
+   
+   #carousel-example-generic {
+   margin-top: 60px;
+   }
+   .carousel-caption {
+      font-size: 24px;
+   }
+
+   .carousel-caption h3 {
+      font-size: 32px;
+   }
+   #carousel-example-generic  .item { height: 400px; }
+/* --------------------------------------
+   Carousel
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Global Styles
+   -------------------------------------- */
+
+   .thumbnails {
+   margin: 20px 0;
+}
+
+.thumbnail {
+   position: relative;
+}
+
+.thumbnail h3 {
+   font-size: 16px;
+   margin: 0 0 10px;
+   line-height: 20px;
+}
+
+.thumbnail .price {
+   font-size: 22px;
+   position: absolute;
+   top: -10px;
+   right: -10px;
+   padding: 10px;
+}
+
+.thumbnail .price sup {
+   font-weight: normal;
+   font-size: 12px;
+}
+
+.thumbnail span.glyphicon {
+   margin-right: 5px;
+}
+
+
+
+/* --------------------------------------
+   Media Queries
+   -------------------------------------- */
+
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+	.thumbnail .price {
+      font-size: 14px;
+   }
+   
+   .thumbnail .price sup {
+      font-size: 10px;
+   }
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+	.carousel-caption {
+      font-size: 16px;
+   }
+   
+   .carousel-caption h4 {
+      font-size: 22px;
+   }
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+	#myCarousel .item { height: 500px; }'''/
+}
